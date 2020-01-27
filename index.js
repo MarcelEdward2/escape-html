@@ -13,7 +13,7 @@
  * @private
  */
 
-var matchHtmlRegExp = /["'&<>]/
+var matchHtmlRegExp = /["'&<>]/ig
 
 /**
  * Module exports.
